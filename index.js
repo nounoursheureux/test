@@ -1,7 +1,6 @@
-console.log('dwag');
 $('#btn').click(function(e){
-    console.log('lol');
-    $.get('http://api.github.com',function(data){
+    console.log('sending');
+    $.get('https://api.github.com',function(data){
         console.log(data);
     });
 });
