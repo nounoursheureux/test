@@ -7,4 +7,4 @@ paragraph
 <p id="another" class="classy">
 another paragraph
 </p>
-<img src='https://i.stack.imgur.com/HeNl2.png' alt='<>' id="lol" class="prout" onclick="alert('lol');"/>
+<img src='http://wilhem.org'/>
