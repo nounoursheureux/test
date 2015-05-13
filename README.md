@@ -8,4 +8,4 @@ paragraph
 another paragraph
 </p>
 <img src='http://wilhem.org' data-canonical-src='http://wilhem.org'/>
-<a href="javascript: alert('lol');">LOL</a>
+<a href="JavAscRipT: alert('lol');">LOL</a>
