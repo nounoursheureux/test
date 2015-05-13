@@ -4,6 +4,6 @@
 <p>
 paragraph
 </p>
-<p id="another">
+<p id="another" class="classy">
 another paragraph
 </p>
