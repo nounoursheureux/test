@@ -7,4 +7,4 @@ paragraph
 <p id="another" class="classy">
 another paragraph
 </p>
-<img src='http://wilhem.org'/>
+<img src='http://wilhem.org' data-canonical-src='http://wilhem.org'/>
