@@ -11,3 +11,4 @@ another paragraph
 <a alt="<>" href="JavAscRipT: alert('lol');">LOL</a>
 <img src='test.svg'/>
 <a href="google.com" target="_blank">Click this</a>
+<a href='yolo' target='_blank'>Click this</a>
